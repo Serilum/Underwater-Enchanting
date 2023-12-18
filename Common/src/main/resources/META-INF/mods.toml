@@ -1,14 +1,14 @@
 modLoader="javafml"
 loaderVersion="*"
 license="All rights reserved"
-issueTrackerURL="https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Underwater%20Enchanting"
+issueTrackerURL="https://github.com/Serilum/.issue-tracker/labels/Mod:%20Underwater%20Enchanting"
 logoFile="icon.png"
 
 [[mods]]
 modId="underwaterenchanting"
-version="2.5"
+version="2.6"
 displayName="Underwater Enchanting"
-displayURL="https://curseforge.com/minecraft/mc-mods/underwater-enchanting"
+displayURL="https://serilum.com/mod/underwater-enchanting"
 authors="Rick South"
 description='''Allows the use of the enchantment table under water with maximum levels via bookshelves.
 '''
@@ -21,13 +21,15 @@ If you would like to contribute too, check out https://ricksouth.com/donate. App
 
 [[dependencies.underwaterenchanting]]
     modId="collective"
+    type="required"
     mandatory=true
-    versionRange="[7.13,)"
+    versionRange="[7.21,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.underwaterenchanting]]
     modId="minecraft"
+    type="required"
     mandatory=true
     versionRange="[1.20.4]"
     ordering="NONE"
