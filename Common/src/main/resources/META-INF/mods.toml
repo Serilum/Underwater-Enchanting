@@ -6,7 +6,7 @@ logoFile="icon.png"
 
 [[mods]]
 modId="underwaterenchanting"
-version="2.6"
+version="2.7"
 displayName="Underwater Enchanting"
 displayURL="https://serilum.com/mod/underwater-enchanting"
 authors="Rick South"
@@ -23,7 +23,7 @@ If you would like to contribute too, check out https://ricksouth.com/donate. App
     modId="collective"
     type="required"
     mandatory=true
-    versionRange="[7.21,)"
+    versionRange="[7.26,)"
     ordering="NONE"
     side="BOTH"
 
