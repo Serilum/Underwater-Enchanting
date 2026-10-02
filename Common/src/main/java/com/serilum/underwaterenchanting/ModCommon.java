@@ -1,4 +1,4 @@
-package com.natamus.underwaterenchanting;
+package com.serilum.underwaterenchanting;
 
 
 public class ModCommon {

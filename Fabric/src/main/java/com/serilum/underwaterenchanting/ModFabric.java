@@ -1,8 +1,8 @@
-package com.natamus.underwaterenchanting;
+package com.serilum.underwaterenchanting;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.underwaterenchanting.util.Reference;
+import com.serilum.underwaterenchanting.util.Reference;
 import net.fabricmc.api.ModInitializer;
 
 public class ModFabric implements ModInitializer {
