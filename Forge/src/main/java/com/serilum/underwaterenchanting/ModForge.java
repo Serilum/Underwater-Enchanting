@@ -1,8 +1,8 @@
-package com.natamus.underwaterenchanting;
+package com.serilum.underwaterenchanting;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.underwaterenchanting.util.Reference;
+import com.serilum.underwaterenchanting.util.Reference;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLLoadCompleteEvent;
